@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.exe
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.deps.json
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.runtimeconfig.json
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.runtimeconfig.dev.json
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.dll
+C:\Users\User\source\repos\bot\bot\bin\Debug\netcoreapp3.1\bot.pdb
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.csprojAssemblyReference.cache
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.AssemblyInfo.cs
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.dll
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.pdb
+C:\Users\User\source\repos\bot\bot\obj\Debug\netcoreapp3.1\bot.genruntimeconfig.cache
